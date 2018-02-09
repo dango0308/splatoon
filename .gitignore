@@ -39,6 +39,10 @@ Temp/
 Cache/
 obj/
 Library/
+Assets/_Complete-Game/
+Assets/CompleteGame/
+Assets/Demigiant/
+Assets/InkPainter/
 Heapshots/
 *.apk
 log/
