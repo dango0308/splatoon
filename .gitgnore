@@ -35,6 +35,32 @@ sysinfo.txt
 
 .DS_Store
 *~
+Temp/
+Cache/
+obj/
+Library/
+Heapshots/
+*.apk
+log/
+
+!Library/*.asset
+!Library/AssetVersioning.db
+!Library/BuildPlayer.prefs
+Library/InspectorExpandedItems.asset
+
+*.csproj*
+*.pidb
+*.unityproj
+*.sln
+*.sln.ide
+*.suo
+*.userprefs
+*.psess
+*.vspx
+
+Assembly-CSharp*
+UnityVS.project.*
+sysinfo.txt
 Assets/Plugins
 
 PluginProjects/**/*.d
